@@ -19,6 +19,8 @@ It matches the input with predefined rules using regex.
 If a match is found, it returns an appropriate response.
 If no match is found, it prompts the user to rephrase their question.
 
+![Image](https://github.com/user-attachments/assets/c2541517-86c6-445c-8e0c-0703790657f1)
+
 Future Improvements:
 Expand the response database for better interactions.
 Implement NLP-based responses for more flexibility.
